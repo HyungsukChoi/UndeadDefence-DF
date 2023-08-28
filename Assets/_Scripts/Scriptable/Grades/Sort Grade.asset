@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d893a485d9f58e742ac20c5a887c3a13, type: 3}
+  m_Name: Sort Grade
+  m_EditorClassIdentifier: 
+  grades:
+  - grade: {fileID: 11400000, guid: 26e8ddccf0b8b9640855adb334a4ce50, type: 2}
+    weight: 60
+  - grade: {fileID: 11400000, guid: 45c0ba92a5878924a9c7032062c62cc8, type: 2}
+    weight: 0
+  - grade: {fileID: 11400000, guid: ec654b3ac295dd44e8d5a135ea9f247c, type: 2}
+    weight: 0
+  - grade: {fileID: 11400000, guid: 318010669252d2a45ab6a95f5fbafb6b, type: 2}
+    weight: 60
+  - grade: {fileID: 11400000, guid: 037b61d806b863d4bb4c5847b7cc7566, type: 2}
+    weight: 0
+  - grade: {fileID: 11400000, guid: 0922a613d799d9f4fba99645f7e790ed, type: 2}
+    weight: 0
+  - grade: {fileID: 11400000, guid: d75b65e46c3b29942a6356d772e976b7, type: 2}
+    weight: 60
+  - grade: {fileID: 11400000, guid: 52986eaf0f1b6294fba4f34428c210af, type: 2}
+    weight: 0
+  - grade: {fileID: 11400000, guid: 32c831eb956abb647a96db4c1c6f4bbd, type: 2}
+    weight: 0
+  - grade: {fileID: 11400000, guid: c481e194df2c8034a83ea9393c1052f4, type: 2}
+    weight: 60
+  - grade: {fileID: 11400000, guid: d90f9a3ad7e0e374786d289173ca9abb, type: 2}
+    weight: 0
+  - grade: {fileID: 11400000, guid: ec654b3ac295dd44e8d5a135ea9f247c, type: 2}
+    weight: 0
